@@ -9,7 +9,7 @@ from multimodels import samplingdata
 
 
 '''
-
+This is the main file to run the IMM Algorithm. Two math models CTRA, CAA models are used by the IMM tracker to choose the proper model based on the scenario. 
 '''
 class IMM:
     def __init__(self):
